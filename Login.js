@@ -1,5 +1,5 @@
 import Left from "./Left";
-import Right from "./Right";
+// import Right from "./Right";
 
 
 const Login = () => {
@@ -10,9 +10,9 @@ const Login = () => {
              <Left/>
              </div>
             
-             <div className="right">
+             {/* <div className="right">
              <Right/>
-             </div>
+             </div> */}
             
            
         </div>
