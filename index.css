@@ -1,0 +1,176 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  background-image: url("vack.png");
+  background-size: cover;
+   font-family: 'Roboto Slab', serif;;
+ 
+ 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+  
+  
+
+}
+
+/* h1{
+  padding-top: px;
+  background-color: aquamarine;
+  text-align: center;
+  margin-top: 300px;
+  width: 400px;
+  border-radius: 20px;
+  padding: 40px; 
+  
+}
+div{
+  display: flex;
+  justify-content: center;
+} */
+.main{
+  display: flex;
+  flex-direction: row;
+}
+.left{
+  margin-left:150px;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  
+  align-items: center;
+}
+.left #titl{
+  font-weight: bold;
+}
+.mail{
+  margin: 20px;
+  width: 350px;
+  height: 45px;
+  border-radius: 5px;
+  font-weight: normal;
+  font-size: 20px;
+  color: black;
+  background: #C4C4C4;
+  border-color: white;
+  margin-top: 50px;
+  margin-left: 30px;
+  padding-left: 15px;
+  opacity: 50%;
+  
+  /* box-shadow: gray; */
+}
+.password{
+  margin: 20px;
+  width: 350px;
+  height: 45px;
+  border-radius: 5px;
+  font-weight: normal;
+  font-size: 20px;
+  color: black;
+  background: #c4c4c4; ;
+  border-color: white;
+  box-shadow: gray;
+  margin-top: 20px;
+  padding-left: 15px;
+  opacity: 50%;
+ 
+ 
+}
+#log{
+  margin: 20px;
+  width: 375px;
+  height: 45px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 25px;
+  color: white;
+  background: #3ECAC1;
+  border-color: white;
+  box-shadow: gray;
+  opacity: 50%;
+  margin-left: 65px;
+  
+}
+#crt{
+  margin: 20px;
+  width: 375px;
+  height: 45px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+  background: #3ECAC1;
+  border-color: white;
+  box-shadow: gray;
+  margin-top: 70px;
+  margin-left: 65px;
+  opacity: 50%;
+}
+#forgot{
+  font-weight: bold;
+  font-size: 13px;
+  margin-left: 30px;
+}
+.mail2{
+display: flex;
+flex-direction: row;
+}
+#titl{
+  font-size: 60px;
+  font-weight: 900;
+  margin-left: 30px;
+}
+#user{
+  width: 42px;
+  height: 30px;
+  padding: 0;
+  margin-top: 60px;
+}
+#eye{
+  width: 49px;
+  height: 35px;
+  padding: 0;
+  margin-top: 20px;
+}
+#sig{
+  margin-left: 30px;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+
+}
+#sign{
+  
+    
+    color:"white";
+    height: "75px";
+    width:"333px";
+    border-Radius: "25px";
+    background-Color: "#90E0DB";
+    border: "5px solid #FFFFFF";
+    position: "absolute";
+    left: "100px";
+    top: "400px";
+    font-Family: "Sahitya";
+    font-Style: "normal";
+    font-Weight: "bold";
+    font-Size: "30px";
+    
+  }
+  .introTxt{
+    font-Family: "Sahitya";
+    font-Style: "normal";
+    font-Weight: "bold";
+    font-Size: "30px";
+  
+    color: "#ffffff"
+}
+
+
+    
+
+
+    
