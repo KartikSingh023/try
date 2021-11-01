@@ -135,39 +135,20 @@ flex-direction: row;
   margin-top: 20px;
 }
 #sig{
+  margin-top: 10px;
   margin-left: 30px;
 }
 .main{
   display: flex;
   flex-direction: row;
+  justify-content: end;
 
 }
-#sign{
-  
-    
-    color:"white";
-    height: "75px";
-    width:"333px";
-    border-Radius: "25px";
-    background-Color: "#90E0DB";
-    border: "5px solid #FFFFFF";
-    position: "absolute";
-    left: "100px";
-    top: "400px";
-    font-Family: "Sahitya";
-    font-Style: "normal";
-    font-Weight: "bold";
-    font-Size: "30px";
-    
-  }
-  .introTxt{
-    font-Family: "Sahitya";
-    font-Style: "normal";
-    font-Weight: "bold";
-    font-Size: "30px";
-  
-    color: "#ffffff"
+.left{
+  margin-right: 180px;
 }
+
+
 
 
     
